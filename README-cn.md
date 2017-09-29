@@ -19,13 +19,10 @@
 - [Keylord](https://protonail.com/products/keylord) - 用于Redis, LevelDB and Memcached 三种 key-value 类型数据库的跨平台GUI客户端。
 - [Pixie](http://www.nattyware.com/pixie.php) - 一个简单的颜色选取器， 供开发者使用。
 - [pngquant](https://pngquant.org/) - 对具有或不具有透明度的PNG文件应用有损压缩以获得更高效的文件。
-- [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - 一个完整的工具列表。
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx) - 功能强大的任务管理工具 ![Freeware][Freeware Icon]
 - [Process Hacker](http://processhacker.sourceforge.net/) -优秀且成熟的任务管理工具。
 - [RazorSQL](http://www.razorsql.com/) - 供数据库管理员使用的 SQLite 数据库管理软件
 - [Redis Desktop Manager](http://redisdesktop.com/) 跨平台开源的Redis数据库管理工具。
-- [SourceTree](https://www.sourcetreeapp.com/) - 一个免费的 Git & Mercurial 客户端。
-- [Sql Wave](http://www.valentina-db.com/en/sqlwave) - 一个MySQL数据库管理器。
 - [SSLyog](https://www.webyog.com/) - 强大的 MySQL 管理工具。
 - [Vagrant](https://www.vagrantup.com/) - 一个用于创建和管理虚拟机的工具。 [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
 - [Zsh](http://www.zsh.org/) -  一个强大的命令行shell。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/zsh/code/ci/master/tree/)
@@ -80,8 +77,6 @@
 
 ### 视频
 
-- [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - DirectShow过滤器，VFW / ACM 编解码器和工具的集合。
-- [mpv](http://mpv.io/) -媒体播放器。 [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv)
 - [HandBrake](http://handbrake.fr/) - 一个拥有良好界面的高性能视频编码和转换工具。 [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 - [ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
 - [Open Broadcaster Software](https://obsproject.com/) - 免费开源的视频录制和流媒体播放软件。 [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
@@ -105,15 +100,12 @@
 - [Cryptomator](https://cryptomator.org/) - 免费的客户端加密程序，用于加密你储存在云端的文件。 [![Open-Source Software][OSS Icon]](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 - [ENCRYPTO](http://macpaw.com/encrypto) - 优雅地加密你的文件。 ![Freeware][Freeware Icon]
 - [GlassWire](https://www.glasswire.com/) - 网络安全监控工具和分析器，可视化您的网络活动。
-- [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - Windows 上用于配置加密协议，密码，散列方式和密钥交换的工具集（例如为远程桌面提供 TLS/AES/SHA 加密。）
-- [SpyBot](https://www.safer-networking.org/) - 搜索和销毁恶意软件，间谍软件和病毒。
+
 - [System Explorer](http://systemexplorer.net) - 加强版的任务管理器，支持监控和修改系统进程，启动项，系统服务，驱动，终端扩展等。
 - [UnChecky](https://unchecky.com/) - 自动取消勾选程序安装过程中的无关选项。
 - [Malwarebytes](https://www.malwarebytes.org/) - 提供防病毒软件无法提供的防护功能。
-- [Tor Project](https://www.torproject.org/) - 启用匿名通信。 [![Open-Source Software][OSS Icon]](https://github.com/TheTorProject)
 - [Windows 10 Paranoid's Guide](http://www.zdnet.com/article/how-to-secure-windows-10-the-paranoids-guide/)
 - [Disable Data Logging](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10) - 使Windows 10更加私密和安全。
-- [Viscosity](https://www.sparklabs.com/viscosity/) - 全功能的OpenVPN客户端，适用于企业部署。
 
 
 ## 杂项
