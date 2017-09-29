@@ -43,17 +43,6 @@
 - [Paint.net](http://www.getpaint.net/index.html) - 你怎么能忍受没有paint.net的生活？ ![Freeware][Freeware Icon]
 
 
-### 生产力工具
-
-- [Cold Turkey](https://getcoldturkey.com) - 屏蔽能分散你注意力的网站。（屏蔽期间你甚至无法卸载它。）
-
-- [Inkdrop](https://www.inkdrop.info/) - Markdown爱好者的笔记应用程序。
-
-- [MultiCommander](http://multicommander.com/) - 为专业用户提供的文件管理器。 ![Freeware][Freeware Icon]
-- [Ninite](https://ninite.com/) - 最简单，最快速的更新或安装软件的方式。 ![Freeware][Freeware Icon]
-- [Scoop](https://github.com/lukesampson/scoop) - Windows 的命令行安装程序。 [![Open-Source Software][OSS Icon]](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
-- [KatMouse](http://www.ehiti.de/katmouse/) - 用于在 Windows 上提供全局滚动效果：滚动时不需要先激活/点击窗口（类似 macOS 和 Linux 上的效果）。 ![Freeware][Freeware Icon]
-
 ### 实用程序
 
 - [Windows终端命令的A-Z](http://ss64.com/nt/)
