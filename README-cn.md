@@ -45,24 +45,18 @@
 
 ### 实用程序
 
-- [Windows终端命令的A-Z](http://ss64.com/nt/)
 - [Carnac](http://code52.org/carnac/) - 在任何屏幕录制期间录制按键的最简单方法。
 - [CleanMyPC](http://macpaw.com/cleanmypc) - 快速的电脑清洁软件。
-- [Far](http://www.farmanager.com/index.php?l=en) -文件和归档管理器。克隆自诺顿指挥官。 [![Open-Source Software][OSS Icon]](http://sourceforge.net/projects/farmanager/)
 - [Glary Utilities](http://www.glarysoft.com/) - 提供许多ccleaner中没有的更高级的功能。
-- [HTTrack](https://www.httrack.com/page/2/en/index.html)- 离线浏览器实用程序，允许您从Internet下载网站到本地目录。 [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
+
 - [LICEcap](http://www.cockos.com/licecap/) - 捕获屏幕动画并直接保存到.GIF。
 - [rimraf](https://www.npmjs.com/package/rimraf) - node中的深度删除模块。 用于删除具有很长路径的文件和文件夹。
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - 安全删除文件或清空闲置空间的命令行库。
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - 一款图形化程序，可根据文件和目录的大小将其显示为不同大小的块。
 - [Speccy](https://www.piriform.com/speccy) - 显示你计算机中每个硬件的详细统计信息。
 - [ShareX](https://getsharex.com/)- 让您使用单个键获取任何选定区域的截图或屏幕录像。 [![Open-Source Software][OSS Icon]](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
-- [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - 由Mark Russinovich提供的工具套件，提供对 Windows 进程，物理端口，磁盘活动等构件的访问以进行故障排除。
-- [Waltr](http://softorino.com/waltr/) - 不依靠 iTunes 将任何电影或音乐文件传输到iPhone。
 - [WinDirStat](https://windirstat.info/) - 磁盘使用情况查看器和清洁器。
 - [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - 更改 Windows 10 登录屏幕背景。 [![Open-Source Software][OSS Icon]](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
-- [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - 一款屏幕缩放和标记工具，用于技术展示。它静默运行于托盘处，通过用户定义的热键触发放大屏幕区域，放大时拖动及在放大图像上标注。
-
 
 ### 视频
 
